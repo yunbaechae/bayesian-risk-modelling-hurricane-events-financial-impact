@@ -19,7 +19,7 @@ This assignment applied Bayesian credibility theory to model hurricane frequency
   (Original .Rmd source file is no longer available, but the PDF preserves all code, models, plots, and financial impact analysis.)
 
 ## Files
-- [Yunbae_Chae_42809037.pdf](Assignment2.pdf) → Full assignment submission with Bayesian models, posteriors, plots, and conclusions  
+- [Yunbae_Chae_42809037.pdf](Yunbae_Chae_42809037.pdf) → Full assignment submission with Bayesian models, posteriors, plots, and conclusions  
 
 ## Date
 2023
